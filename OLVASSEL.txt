@@ -1,0 +1,76 @@
+Az általam létrehozott/módosított fájlok a következõk:
+
+== KONFIGURÁCIÓS FÁJLOK ==
+HM_ORMO/application/config/config.php
+HM_ORMO/application/config/database.php
+HM_ORMO/application/config/autoload.php
+HM_ORMO/application/config/routes.php
+HM_ORMO/application/config/form_validation.php
+
+== SZUPER OSZTÁLYOK ==
+HM_ORMO/application/core/MY_controller.php
+HM_ORMO/application/core/MY_model.php
+
+== VEZÉRLÕK ==
+HM_ORMO/application/controllers/club.php
+HM_ORMO/application/controllers/player.php
+HM_ORMO/application/controllers/transfer.php
+HM_ORMO/application/controllers/test.php
+
+== MODELLEK ==
+HM_ORMO/application/models/club_model.php
+HM_ORMO/application/models/player_model.php
+HM_ORMO/application/models/transfer_model.php
+
+== NÉZETEK ==
+HM_ORMO/application/views/dialogs/add_update_club.php
+HM_ORMO/application/views/dialogs/add_update_player.php
+HM_ORMO/application/views/dialogs/add_update_transfer.php
+HM_ORMO/application/views/dialogs/delete.php
+HM_ORMO/application/views/dialogs/includes/datepicker.php
+HM_ORMO/application/views/dialogs/includes/validation_engine.php
+HM_ORMO/application/views/headers/club.php
+HM_ORMO/application/views/headers/includes/datatables.php
+HM_ORMO/application/views/headers/includes/poshytip.php
+HM_ORMO/application/views/pages/club.php
+HM_ORMO/application/views/pages/player.php
+HM_ORMO/application/views/pages/containers/club.php
+HM_ORMO/application/views/pages/containers/player.php
+HM_ORMO/application/views/pages/containers/players.php
+HM_ORMO/application/views/pages/containers/transfers.php
+HM_ORMO/application/views/sidebars/default.php
+HM_ORMO/application/views/templates/default_template.php
+
+== ÛRLAPELLENÕRZÕ KÖNYVTÁR KITERJESZTÉSE ==
+HM_ORMO/application/libraries/MY_form_validation.php
+
+== NÉZETMEGJELENÍTÕ FÜGGVÉNYEK ==
+HM_ORMO/application/helpers/view_helper.php
+
+== SZKRIPTEK ==
+HM_ORMO/application/js/main.js
+HM_ORMO/application/js/pages/club.js
+HM_ORMO/application/js/functions/init_datatables.js
+HM_ORMO/application/js/functions/init_datepicker.js
+HM_ORMO/application/js/functions/init_forms.js
+HM_ORMO/application/js/functions/init_poshytip.js
+
+== CSS ==
+HM_ORMO/application/css/style.css
+
+== ADATMODELL ==
+DATAMODEL/RELATIONAL_DATAMODEL.mwb
+DATAMODEL/RELATIONAL_DATAMODEL.png
+DATAMODEL/HM_ORMO.sql
+
+== KÉPERNYÕKÉPEK ==
+SCREENS/01_Club_profile.jpg
+SCREENS/02_club_transfers.jpg
+SCREENS/03_club_create.jpg
+SCREENS/04_club_update.jpg
+SCREENS/05_player_profile.jpg
+SCREENS/06_player_create.jpg
+SCREENS/07_player_update.jpg
+SCREENS/08_transfer_create.jpg
+SCREENS/09_transfer_update.jpg
+SCREENS/10_delete.jpg

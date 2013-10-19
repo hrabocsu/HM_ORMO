@@ -1,0 +1,2 @@
+<script src="<?php ECHO base_url().APPPATH."third_party/jquery.ui-1.9.1/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hu.min.js"; ?>"></script>
+<script src="<?php ECHO base_url().APPPATH."js/functions/init_datepicker.js"; ?>"></script>
